@@ -1,0 +1,8 @@
+# FMOD studio (In folder FMOD)
+**/.user
+**/.unsaved
+**/.cache
+**/.restore
+
+# Mac
+.DS_Store
